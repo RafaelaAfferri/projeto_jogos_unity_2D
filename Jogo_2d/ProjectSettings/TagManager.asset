@@ -44,23 +44,20 @@ TagManager:
   - name: Ground
     uniqueID: 4134795089
     locked: 0
-  - name: WallsLow
-    uniqueID: 931889757
+  - name: WalkInFront
+    uniqueID: 3650400783
     locked: 0
-  - name: WallsHigh
-    uniqueID: 3197777823
+  - name: Collision
+    uniqueID: 1515033037
     locked: 0
-  - name: PropsStatic
-    uniqueID: 4076642915
+  - name: Player
+    uniqueID: 1996968171
     locked: 0
-  - name: PropsYSort
-    uniqueID: 3160532583
+  - name: WalkBehind
+    uniqueID: 2606271515
     locked: 0
-  - name: FX
-    uniqueID: 780245739
-    locked: 0
-  - name: UI
-    uniqueID: 803846185
+  - name: Decor
+    uniqueID: 3478589935
     locked: 0
   m_RenderingLayers:
   - Default
