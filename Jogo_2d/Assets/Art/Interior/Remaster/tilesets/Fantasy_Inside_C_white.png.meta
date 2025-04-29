@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: e15e9dd1879c71542a06f9ee6e89ad65
-=======
-guid: 53516979814714315a4c648b9768a615
->>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -299,22 +295,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-<<<<<<< HEAD
-=======
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
->>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -1817,78 +1797,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-<<<<<<< HEAD
-    nameFileIdTable:
-      Fantasy_Inside_C_white_0: -3744114634451777150
-      Fantasy_Inside_C_white_1: -1809719779591512962
-      Fantasy_Inside_C_white_10: -520467948521624095
-      Fantasy_Inside_C_white_11: -7859572246718594170
-      Fantasy_Inside_C_white_12: -7924836410936791005
-      Fantasy_Inside_C_white_13: -9090033634969625001
-      Fantasy_Inside_C_white_14: 813767198597484659
-      Fantasy_Inside_C_white_15: -2542140293320001619
-      Fantasy_Inside_C_white_16: 4479023139739367229
-      Fantasy_Inside_C_white_17: 1080798303337792071
-      Fantasy_Inside_C_white_18: 4589267678934072656
-      Fantasy_Inside_C_white_19: -2528514109939167090
-      Fantasy_Inside_C_white_2: 6452765501560491533
-      Fantasy_Inside_C_white_20: -6126035729349619533
-      Fantasy_Inside_C_white_21: 3138114588276446482
-      Fantasy_Inside_C_white_22: -3334517469745373026
-      Fantasy_Inside_C_white_23: -6175732105411690333
-      Fantasy_Inside_C_white_24: -7236828431935753175
-      Fantasy_Inside_C_white_25: 103284347588471270
-      Fantasy_Inside_C_white_26: 2530833347788933954
-      Fantasy_Inside_C_white_27: -2220465701702220580
-      Fantasy_Inside_C_white_28: -1156168202065333462
-      Fantasy_Inside_C_white_29: -2627621386621862917
-      Fantasy_Inside_C_white_3: 8750353250310450111
-      Fantasy_Inside_C_white_30: -8226931463758416847
-      Fantasy_Inside_C_white_31: -3116442596829848434
-      Fantasy_Inside_C_white_32: 3267913648217790794
-      Fantasy_Inside_C_white_33: 7208661446092483272
-      Fantasy_Inside_C_white_34: -5120804174923792795
-      Fantasy_Inside_C_white_35: -8757331089819570190
-      Fantasy_Inside_C_white_36: -7797574656992351146
-      Fantasy_Inside_C_white_37: -7027839600742366963
-      Fantasy_Inside_C_white_38: -6006273581385542026
-      Fantasy_Inside_C_white_39: -5974028941216956437
-      Fantasy_Inside_C_white_4: 6997782454189097585
-      Fantasy_Inside_C_white_40: -9100745511330243268
-      Fantasy_Inside_C_white_41: -3980623144863201849
-      Fantasy_Inside_C_white_42: 3523428056718925882
-      Fantasy_Inside_C_white_43: 5799218103059806937
-      Fantasy_Inside_C_white_44: -7355853834153775605
-      Fantasy_Inside_C_white_45: -3982890430115744468
-      Fantasy_Inside_C_white_46: 2504092278476245093
-      Fantasy_Inside_C_white_47: 261668642795022782
-      Fantasy_Inside_C_white_48: -8475866763544927484
-      Fantasy_Inside_C_white_49: -6757352690443692962
-      Fantasy_Inside_C_white_5: -8963772342352933811
-      Fantasy_Inside_C_white_50: 5487401205754914068
-      Fantasy_Inside_C_white_51: 5035435221778246522
-      Fantasy_Inside_C_white_52: -2971458983262241987
-      Fantasy_Inside_C_white_53: 4335217111346492322
-      Fantasy_Inside_C_white_54: 819374568984435361
-      Fantasy_Inside_C_white_55: -2446606728203407476
-      Fantasy_Inside_C_white_56: -6376105484208547646
-      Fantasy_Inside_C_white_57: 142815155061889668
-      Fantasy_Inside_C_white_58: -5966121647003159442
-      Fantasy_Inside_C_white_59: 5901058324791075572
-      Fantasy_Inside_C_white_6: 2560452111361947962
-      Fantasy_Inside_C_white_60: -4706126105616015688
-      Fantasy_Inside_C_white_61: 4909871655642191534
-      Fantasy_Inside_C_white_62: 741914666819184978
-      Fantasy_Inside_C_white_63: -402227334603194202
-      Fantasy_Inside_C_white_64: -2257294184077422161
-      Fantasy_Inside_C_white_65: -3721052462720764824
-      Fantasy_Inside_C_white_66: 2189256355396124687
-      Fantasy_Inside_C_white_7: -5130878679813318510
-      Fantasy_Inside_C_white_8: -8550791650242570270
-      Fantasy_Inside_C_white_9: -3094154511273301697
-=======
     nameFileIdTable: {}
->>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
