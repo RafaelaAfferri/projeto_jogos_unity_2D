@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$Gate_Cathedral2_0': 5568809589840194640
+      '!$Gate_Cathedral2_1': -8673397496399414249
+      '!$Gate_Cathedral2_10': -6308670181901892593
+      '!$Gate_Cathedral2_11': -6304881469830165065
+      '!$Gate_Cathedral2_2': 7401897004832122213
+      '!$Gate_Cathedral2_3': -5243979995477780417
+      '!$Gate_Cathedral2_4': -6678351589336340203
+      '!$Gate_Cathedral2_5': -1102365244347902259
+      '!$Gate_Cathedral2_6': -9214242510680932639
+      '!$Gate_Cathedral2_7': -6703797968983031725
+      '!$Gate_Cathedral2_8': -4305230853012040842
+      '!$Gate_Cathedral2_9': -8250591981494168246
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

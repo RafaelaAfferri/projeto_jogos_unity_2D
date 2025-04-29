@@ -1085,7 +1085,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!Gate_Dungeon1_0': 4690157929869664157
+      '!Gate_Dungeon1_1': -4339762933909922567
+      '!Gate_Dungeon1_10': 39217147441311730
+      '!Gate_Dungeon1_11': 4325873379835757791
+      '!Gate_Dungeon1_12': -6372473931630925239
+      '!Gate_Dungeon1_13': -386385224329164069
+      '!Gate_Dungeon1_14': 4982571200752546125
+      '!Gate_Dungeon1_15': -6981391145718617526
+      '!Gate_Dungeon1_16': 7858048844995179729
+      '!Gate_Dungeon1_17': -4800133442100195688
+      '!Gate_Dungeon1_18': 6028804335631482675
+      '!Gate_Dungeon1_19': -7184107597373358720
+      '!Gate_Dungeon1_2': -3565312645330689056
+      '!Gate_Dungeon1_20': 8023656367878846500
+      '!Gate_Dungeon1_21': 4416582975323770960
+      '!Gate_Dungeon1_22': 8777937055333535839
+      '!Gate_Dungeon1_23': 1547782398006698543
+      '!Gate_Dungeon1_24': -1173914515665287662
+      '!Gate_Dungeon1_25': 6361331463900807063
+      '!Gate_Dungeon1_26': 1006588615045452732
+      '!Gate_Dungeon1_27': -5794365462170787202
+      '!Gate_Dungeon1_28': -1467265280771202373
+      '!Gate_Dungeon1_29': 8050152199536965872
+      '!Gate_Dungeon1_3': -7456277824955535277
+      '!Gate_Dungeon1_30': -3470945411124710743
+      '!Gate_Dungeon1_31': -2083958017920209575
+      '!Gate_Dungeon1_32': -5539039741231442333
+      '!Gate_Dungeon1_33': 288827764913429728
+      '!Gate_Dungeon1_34': 4261096563696276240
+      '!Gate_Dungeon1_35': -7444010847782008409
+      '!Gate_Dungeon1_36': -1679260404459295375
+      '!Gate_Dungeon1_37': -6612431952430056724
+      '!Gate_Dungeon1_4': -860300504724762153
+      '!Gate_Dungeon1_5': -6949023070514623787
+      '!Gate_Dungeon1_6': 5285417162661199630
+      '!Gate_Dungeon1_7': -4415254171102129473
+      '!Gate_Dungeon1_8': 3557046324823522643
+      '!Gate_Dungeon1_9': -741642482131367395
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

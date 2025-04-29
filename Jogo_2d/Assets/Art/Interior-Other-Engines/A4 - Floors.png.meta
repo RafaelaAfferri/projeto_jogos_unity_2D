@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      A4 - Floors_0: 4542303220997213405
+      A4 - Floors_1: 8112079552760912296
+      A4 - Floors_10: 3659829616700139465
+      A4 - Floors_11: -2342285866018110524
+      A4 - Floors_12: 4032917160068954471
+      A4 - Floors_13: -4278839082349963968
+      A4 - Floors_14: -4184743883445994034
+      A4 - Floors_15: -9201458311738823682
+      A4 - Floors_16: 6807557563290033345
+      A4 - Floors_17: 4673808828886199115
+      A4 - Floors_18: -6736704076283359445
+      A4 - Floors_19: -8400876710812499546
+      A4 - Floors_2: 4054519480873507531
+      A4 - Floors_20: -2003135502902161849
+      A4 - Floors_21: -5277476636278825897
+      A4 - Floors_22: 6646404470149539735
+      A4 - Floors_23: -2228829509087774794
+      A4 - Floors_3: 3331720982161270576
+      A4 - Floors_4: 4423781522329097461
+      A4 - Floors_5: -8879009669701313563
+      A4 - Floors_6: 8228169138189286245
+      A4 - Floors_7: -2399124294225450003
+      A4 - Floors_8: -1777483943915404827
+      A4 - Floors_9: -3408845842212565835
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

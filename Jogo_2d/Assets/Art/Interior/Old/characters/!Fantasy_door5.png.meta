@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!Fantasy_door5_0': 3838830587388551728
+      '!Fantasy_door5_1': -6716077443281009836
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

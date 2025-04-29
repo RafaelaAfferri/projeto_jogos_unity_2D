@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!Fantasy_wandpillar_0': -3586930977104234550
+      '!Fantasy_wandpillar_1': 512526495225993009
+      '!Fantasy_wandpillar_2': 1347385878167197295
+      '!Fantasy_wandpillar_3': 4495732893098065371
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

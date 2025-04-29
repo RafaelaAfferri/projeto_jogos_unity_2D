@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!Fantasy_dungeon_traps2_0': 106775836873712138
+      '!Fantasy_dungeon_traps2_1': -765366178810073086
+      '!Fantasy_dungeon_traps2_2': -5963853734901626597
+      '!Fantasy_dungeon_traps2_3': -4085967825362282193
+      '!Fantasy_dungeon_traps2_4': -1714213031698661932
+      '!Fantasy_dungeon_traps2_5': 7394105824677398722
+      '!Fantasy_dungeon_traps2_6': 9066753518859535719
+      '!Fantasy_dungeon_traps2_7': 5010930367783879441
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

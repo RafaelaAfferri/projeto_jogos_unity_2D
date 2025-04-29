@@ -485,7 +485,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!Fantasy_door1_0': -1843679567867441880
+      '!Fantasy_door1_1': 953175089961179574
+      '!Fantasy_door1_10': 8156212784241980036
+      '!Fantasy_door1_11': -6164881813138821181
+      '!Fantasy_door1_12': 5325001378728403080
+      '!Fantasy_door1_13': -6329071244265286486
+      '!Fantasy_door1_2': -2568923042350222467
+      '!Fantasy_door1_3': -5223244315962244132
+      '!Fantasy_door1_4': -7774018586866912603
+      '!Fantasy_door1_5': -6162559026441395403
+      '!Fantasy_door1_6': 1161499048032560292
+      '!Fantasy_door1_7': 1154294394276954740
+      '!Fantasy_door1_8': 2209144347527321832
+      '!Fantasy_door1_9': -6972331134695496032
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

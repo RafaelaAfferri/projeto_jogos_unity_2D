@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$Gate_Dungeon_skull_0': -5262204831633493414
+      '!$Gate_Dungeon_skull_1': 4427927284316530260
+      '!$Gate_Dungeon_skull_2': 114004700493012189
+      '!$Gate_Dungeon_skull_3': 6167926025283585676
+      '!$Gate_Dungeon_skull_4': -4655473579521034608
+      '!$Gate_Dungeon_skull_5': -6064211777232922437
+      '!$Gate_Dungeon_skull_6': 2348449782261599416
+      '!$Gate_Dungeon_skull_7': -2940124759903769623
+      '!$Gate_Dungeon_skull_8': -2324243351239608954
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

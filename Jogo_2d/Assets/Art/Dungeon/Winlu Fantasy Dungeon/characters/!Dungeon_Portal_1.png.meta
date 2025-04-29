@@ -1035,7 +1035,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!Dungeon_Portal_1_0': -7482420429812032904
+      '!Dungeon_Portal_1_1': -888809413962682729
+      '!Dungeon_Portal_1_10': -6806164400135716624
+      '!Dungeon_Portal_1_11': -3352369398502697020
+      '!Dungeon_Portal_1_12': -5185338929965669288
+      '!Dungeon_Portal_1_13': 6403596692761417191
+      '!Dungeon_Portal_1_14': -551404895162030884
+      '!Dungeon_Portal_1_15': 2532297748524683859
+      '!Dungeon_Portal_1_16': -9122436966755432845
+      '!Dungeon_Portal_1_17': 3758455568619790388
+      '!Dungeon_Portal_1_18': 8193961162377343987
+      '!Dungeon_Portal_1_19': 8697959622251155562
+      '!Dungeon_Portal_1_2': -5477780190502270252
+      '!Dungeon_Portal_1_20': 3168415909137632015
+      '!Dungeon_Portal_1_21': -7892990650716549826
+      '!Dungeon_Portal_1_22': -8690887087910563294
+      '!Dungeon_Portal_1_23': -7776870098510038598
+      '!Dungeon_Portal_1_24': -513020651233289376
+      '!Dungeon_Portal_1_25': -4672376578289118294
+      '!Dungeon_Portal_1_26': -8646296760952161139
+      '!Dungeon_Portal_1_27': 6145092059597820851
+      '!Dungeon_Portal_1_28': 5096231343291832512
+      '!Dungeon_Portal_1_29': 7619756386175883058
+      '!Dungeon_Portal_1_3': -1659522163851806303
+      '!Dungeon_Portal_1_30': -650239955842663020
+      '!Dungeon_Portal_1_31': -209004514055824064
+      '!Dungeon_Portal_1_32': -2175629165117276394
+      '!Dungeon_Portal_1_33': -8627818995012467568
+      '!Dungeon_Portal_1_34': 8592872413749448912
+      '!Dungeon_Portal_1_35': 4695018237093847693
+      '!Dungeon_Portal_1_4': -3402671657734753033
+      '!Dungeon_Portal_1_5': -3099758018911896474
+      '!Dungeon_Portal_1_6': -5110651340921562955
+      '!Dungeon_Portal_1_7': -6320513800477117201
+      '!Dungeon_Portal_1_8': -2950988294536673068
+      '!Dungeon_Portal_1_9': -6783894588214691647
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

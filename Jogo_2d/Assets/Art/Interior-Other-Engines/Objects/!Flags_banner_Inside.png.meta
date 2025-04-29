@@ -660,7 +660,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!Flags_banner_Inside_0': -3299058344112598750
+      '!Flags_banner_Inside_1': 8928966632022171110
+      '!Flags_banner_Inside_10': 2789013440897232161
+      '!Flags_banner_Inside_11': 4987157981905887980
+      '!Flags_banner_Inside_12': 5876025280725037547
+      '!Flags_banner_Inside_13': 7317325023893095707
+      '!Flags_banner_Inside_14': -4955722081044392498
+      '!Flags_banner_Inside_15': -4326025256073722967
+      '!Flags_banner_Inside_16': -1446618532359296835
+      '!Flags_banner_Inside_17': 681403905489567651
+      '!Flags_banner_Inside_18': -8027283010724214143
+      '!Flags_banner_Inside_19': 7511533013552282138
+      '!Flags_banner_Inside_2': 2427265858715865236
+      '!Flags_banner_Inside_20': 7851688868558599336
+      '!Flags_banner_Inside_3': -7141853831673383488
+      '!Flags_banner_Inside_4': 7664518266545993894
+      '!Flags_banner_Inside_5': -8533325214255246779
+      '!Flags_banner_Inside_6': -419580062776368444
+      '!Flags_banner_Inside_7': -7685859535005011408
+      '!Flags_banner_Inside_8': -3237779121427616922
+      '!Flags_banner_Inside_9': 641324841257833205
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

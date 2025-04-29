@@ -760,7 +760,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!Decoration_static_2_0': 2678328873390142348
+      '!Decoration_static_2_1': 5333695574507844451
+      '!Decoration_static_2_10': 5088896957732437372
+      '!Decoration_static_2_11': 2095336694040011407
+      '!Decoration_static_2_12': -3899363267659488043
+      '!Decoration_static_2_13': -4713146996373405623
+      '!Decoration_static_2_14': 5190360901090428056
+      '!Decoration_static_2_15': 1859612625610887955
+      '!Decoration_static_2_16': -2289042553014987812
+      '!Decoration_static_2_17': 3489233808717590672
+      '!Decoration_static_2_18': 4774466058817340173
+      '!Decoration_static_2_19': -298382813181942475
+      '!Decoration_static_2_2': 1401440932472849221
+      '!Decoration_static_2_20': 3289614047227902573
+      '!Decoration_static_2_21': -7033945696435775517
+      '!Decoration_static_2_22': 2995200495063726118
+      '!Decoration_static_2_23': 4452909724499536292
+      '!Decoration_static_2_24': 7894201400364185276
+      '!Decoration_static_2_3': -2230778711991389759
+      '!Decoration_static_2_4': 4860080615133869008
+      '!Decoration_static_2_5': -3041158195729983238
+      '!Decoration_static_2_6': -6444735108198939328
+      '!Decoration_static_2_7': -5676948080283961676
+      '!Decoration_static_2_8': 3821626763241915397
+      '!Decoration_static_2_9': -2302852036101008967
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$Teleporter_0': -1416550059443232959
+      '!$Teleporter_1': -5329474798025471849
+      '!$Teleporter_2': 2820041000704827759
+      '!$Teleporter_3': 4344770199854740176
+      '!$Teleporter_4': 7353677223924836486
+      '!$Teleporter_5': 4156730436134238578
+      '!$Teleporter_6': -4229032911860274079
+      '!$Teleporter_7': 8308361230667385647
+      '!$Teleporter_8': -7187519715713874776
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

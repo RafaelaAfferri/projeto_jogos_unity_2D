@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$Fireplace_kitchen_0': -4586015297904561324
+      '!$Fireplace_kitchen_1': -5779805915415551060
+      '!$Fireplace_kitchen_10': -3735279349567228469
+      '!$Fireplace_kitchen_11': -1033982398815052576
+      '!$Fireplace_kitchen_2': -4685452410807326315
+      '!$Fireplace_kitchen_3': 19680056322549821
+      '!$Fireplace_kitchen_4': -5431449637932838236
+      '!$Fireplace_kitchen_5': 7109317973498355611
+      '!$Fireplace_kitchen_6': -3720004025932619350
+      '!$Fireplace_kitchen_7': 5552037256681539480
+      '!$Fireplace_kitchen_8': -1203151535533491732
+      '!$Fireplace_kitchen_9': 7635045692631753338
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

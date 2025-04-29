@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$Dungeon_Statue1_0': -7141332967328587954
+      '!$Dungeon_Statue1_1': -1735673520619609497
+      '!$Dungeon_Statue1_10': -264338586661654212
+      '!$Dungeon_Statue1_11': -4457952905793919340
+      '!$Dungeon_Statue1_2': -7797105994551367778
+      '!$Dungeon_Statue1_3': 4657708693578414297
+      '!$Dungeon_Statue1_4': -3207364189930553545
+      '!$Dungeon_Statue1_5': -6558357086172085310
+      '!$Dungeon_Statue1_6': -7657089627160720755
+      '!$Dungeon_Statue1_7': 3307179653303556064
+      '!$Dungeon_Statue1_8': -6478909198032454738
+      '!$Dungeon_Statue1_9': 9061872071800653108
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

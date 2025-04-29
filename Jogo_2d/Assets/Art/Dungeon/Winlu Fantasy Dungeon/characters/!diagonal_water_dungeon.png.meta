@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!diagonal_water_dungeon_0': 3557218799275880145
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fantasy_Inside_A5_0: 3862552565009438538
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

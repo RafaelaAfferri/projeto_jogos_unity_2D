@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$Wall_decoration_0': -2128073838074481306
+      '!$Wall_decoration_1': 6548583205529232204
+      '!$Wall_decoration_2': -6703702534114734201
+      '!$Wall_decoration_3': -6313424246839296553
+      '!$Wall_decoration_4': 1005297866575555235
+      '!$Wall_decoration_5': -8973434735892201718
+      '!$Wall_decoration_6': -4777421958311355943
+      '!$Wall_decoration_7': 8889112786303893460
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

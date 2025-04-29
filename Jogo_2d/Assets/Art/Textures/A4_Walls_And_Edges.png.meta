@@ -1335,7 +1335,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      A4_Walls_And_Edges_0: -1808967925382350245
+      A4_Walls_And_Edges_1: 3493489553201482088
+      A4_Walls_And_Edges_10: -3854756804936214323
+      A4_Walls_And_Edges_11: -4973364868537976803
+      A4_Walls_And_Edges_12: 6104653552693687320
+      A4_Walls_And_Edges_13: -89795629179974859
+      A4_Walls_And_Edges_14: 5482514560247844735
+      A4_Walls_And_Edges_15: 9025829237343060880
+      A4_Walls_And_Edges_16: 5855640826379664285
+      A4_Walls_And_Edges_17: 5014110937920362636
+      A4_Walls_And_Edges_18: -7370195902142656529
+      A4_Walls_And_Edges_19: 2704273161389005057
+      A4_Walls_And_Edges_2: -2656356705320754089
+      A4_Walls_And_Edges_20: 2598751250638372424
+      A4_Walls_And_Edges_21: -1457185673784567311
+      A4_Walls_And_Edges_22: 1863536046030607585
+      A4_Walls_And_Edges_23: 2206032582228309506
+      A4_Walls_And_Edges_24: -3434346741123337222
+      A4_Walls_And_Edges_25: 4282786430489500056
+      A4_Walls_And_Edges_26: 8952422580257865614
+      A4_Walls_And_Edges_27: 1714934514219783972
+      A4_Walls_And_Edges_28: -7285671717926528951
+      A4_Walls_And_Edges_29: -5143497059593241090
+      A4_Walls_And_Edges_3: -4098875067483947778
+      A4_Walls_And_Edges_30: 4621315406901874716
+      A4_Walls_And_Edges_31: -6596157485527483727
+      A4_Walls_And_Edges_32: 8984525939615051146
+      A4_Walls_And_Edges_33: -4614924826231562814
+      A4_Walls_And_Edges_34: 6072370438880064284
+      A4_Walls_And_Edges_35: -8007362083408439861
+      A4_Walls_And_Edges_36: 6474279083117881167
+      A4_Walls_And_Edges_37: 2433120737348869697
+      A4_Walls_And_Edges_38: -5975117711545683777
+      A4_Walls_And_Edges_39: 2248808941305557370
+      A4_Walls_And_Edges_4: -3923196393700239569
+      A4_Walls_And_Edges_40: -2510305581677554464
+      A4_Walls_And_Edges_41: 5532674652495776595
+      A4_Walls_And_Edges_42: 5279269431426790305
+      A4_Walls_And_Edges_43: -8214259114396260092
+      A4_Walls_And_Edges_44: -4648508519141200476
+      A4_Walls_And_Edges_45: -7827243039211787249
+      A4_Walls_And_Edges_46: 6009878705759128175
+      A4_Walls_And_Edges_47: 6577273998298572450
+      A4_Walls_And_Edges_5: -8888154599212439472
+      A4_Walls_And_Edges_6: 8616975734398957627
+      A4_Walls_And_Edges_7: -2093335102135178531
+      A4_Walls_And_Edges_8: -4636318339698676225
+      A4_Walls_And_Edges_9: -287674038871525244
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

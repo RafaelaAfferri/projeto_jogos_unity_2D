@@ -410,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!Flags_banner_Inside_0': -3299058344112598750
+      '!Flags_banner_Inside_1': 8928966632022171110
+      '!Flags_banner_Inside_10': 2789013440897232161
+      '!Flags_banner_Inside_2': 2427265858715865236
+      '!Flags_banner_Inside_3': -7141853831673383488
+      '!Flags_banner_Inside_4': 7664518266545993894
+      '!Flags_banner_Inside_5': -8533325214255246779
+      '!Flags_banner_Inside_6': -419580062776368444
+      '!Flags_banner_Inside_7': -7685859535005011408
+      '!Flags_banner_Inside_8': -3237779121427616922
+      '!Flags_banner_Inside_9': 641324841257833205
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
