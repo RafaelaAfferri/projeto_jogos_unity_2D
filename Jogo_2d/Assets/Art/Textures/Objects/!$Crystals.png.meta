@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 0e5aa0c050abe0f47891f3f1efb33006
+=======
+guid: a6e9154add1f0410dba8b95584e3fcd3
+>>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -124,6 +128,22 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
+<<<<<<< HEAD
+=======
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+>>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -372,6 +392,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
     nameFileIdTable:
       '!$Crystals_0': 747898597249332208
       '!$Crystals_1': -7869148567387581253
@@ -383,6 +404,9 @@ TextureImporter:
       '!$Crystals_7': 5909715326484699886
       '!$Crystals_8': -6363008122988803841
       '!$Crystals_9': 1128268687588176511
+=======
+    nameFileIdTable: {}
+>>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

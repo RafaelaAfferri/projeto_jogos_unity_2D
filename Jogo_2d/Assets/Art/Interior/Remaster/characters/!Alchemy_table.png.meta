@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: bdf6ed9d10433e64a8d61d842b22f842
+=======
+guid: 44da2c5d3f9014e35aa5380c95f46b85
+>>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -106,6 +110,22 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
+<<<<<<< HEAD
+=======
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+>>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -222,11 +242,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
     nameFileIdTable:
       '!Alchemy_table_0': -1718082147920606336
       '!Alchemy_table_1': 2188303109384235221
       '!Alchemy_table_2': -6196147018515540000
       '!Alchemy_table_3': 8255634160847680374
+=======
+    nameFileIdTable: {}
+>>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

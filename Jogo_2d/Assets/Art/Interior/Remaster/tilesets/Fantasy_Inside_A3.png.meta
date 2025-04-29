@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: dbe4662c4a8a31a4ba84718b9da31775
+=======
+guid: d3d3498b6b0a74d459d84a192c9548d8
+>>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -37,7 +41,11 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
+<<<<<<< HEAD
     filterMode: 0
+=======
+    filterMode: 1
+>>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +59,11 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   spritePixelsToUnits: 48
+=======
+  spritePixelsToUnits: 100
+>>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +87,11 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
+<<<<<<< HEAD
     textureCompression: 0
+=======
+    textureCompression: 1
+>>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -97,6 +113,22 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
+<<<<<<< HEAD
+=======
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+>>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -117,23 +149,36 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
+<<<<<<< HEAD
         y: 336
         width: 48
         height: 48
+=======
+        y: 0
+        width: 768
+        height: 384
+>>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
+<<<<<<< HEAD
       tessellationDetail: 0
       bones: []
       spriteID: 468836b71f9d92048b706728c2daf4b2
+=======
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaf13b244ebf9a10800000000000000
+>>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
       internalID: 1918461166274870014
       vertices: []
       indices: 
       edges: []
       weights: []
+<<<<<<< HEAD
     - serializedVersion: 2
       name: Fantasy_Inside_A3_1
       rect:
@@ -2928,11 +2973,17 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+=======
+>>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
     outline: []
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< HEAD
     spriteID: 3141df76816066c45aa629844363e891
+=======
+    spriteID: 
+>>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
     internalID: 0
     vertices: []
     indices: 
@@ -2941,6 +2992,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
     nameFileIdTable:
       Fantasy_Inside_A3_0: 1918461166274870014
       Fantasy_Inside_A3_1: 1420149859
@@ -3070,6 +3122,9 @@ TextureImporter:
       Fantasy_Inside_A3_97: -671681934
       Fantasy_Inside_A3_98: 1018954650
       Fantasy_Inside_A3_99: 254502620
+=======
+    nameFileIdTable: {}
+>>>>>>> 4826b450c3487bc128473dfe6f9cc55e280872f8
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
