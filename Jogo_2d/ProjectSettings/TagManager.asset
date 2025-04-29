@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -41,3 +41,26 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 4134795089
+    locked: 0
+  - name: WallsLow
+    uniqueID: 931889757
+    locked: 0
+  - name: WallsHigh
+    uniqueID: 3197777823
+    locked: 0
+  - name: PropsStatic
+    uniqueID: 4076642915
+    locked: 0
+  - name: PropsYSort
+    uniqueID: 3160532583
+    locked: 0
+  - name: FX
+    uniqueID: 780245739
+    locked: 0
+  - name: UI
+    uniqueID: 803846185
+    locked: 0
+  m_RenderingLayers:
+  - Default
